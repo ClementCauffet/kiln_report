@@ -4,6 +4,15 @@ This program is a component of Kiln company's recruitment process. Its aim is to
 
 ## Installation
 
+### Clone sources
+
+Clone this repository:
+
+```bash
+git clone https://github.com/ClementCauffet/kiln_report.git
+cd kiln_report
+```
+
 ### Python Version
 Ensure you have **Python version 3.11** or higher installed.
 
